@@ -12,3 +12,6 @@ http://localhost:9999/api/users
 $ cd apps
 $ npm run start
 ```
+
+## Vagrantインストール 
+https://qiita.com/necocoa/items/bd62ed3dba14b17552f2

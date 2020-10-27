@@ -5,6 +5,7 @@
 $ cd api
 $ npm run start
 ```
+http://localhost:9999/api/users
 
 ## フロントアプリ起動
 ```
